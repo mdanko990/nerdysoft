@@ -1,0 +1,45 @@
+.addbar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.add-link {
+  margin-top: 10px;
+  border: 1px dashed purple;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.addbar-form-block {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+.addbar-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.addbar-form-title {
+  border: 1px solid lightgray;
+}
+
+.addbar-form-description {
+  border: 1px solid lightgray;
+  resize: none;
+}
+
+.addbar-form-btn {
+  margin-top: 20px;
+  width: 80px;
+  height: 30px;
+  border: 1px solid lightgray;
+  background-color: white;
+  cursor: pointer;
+}

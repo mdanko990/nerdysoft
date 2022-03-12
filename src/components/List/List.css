@@ -1,0 +1,13 @@
+.list-block {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  width: 60%;
+  padding-left: 0;
+  list-style: none;
+}
+.list_item {
+  padding: 0 30px;
+}

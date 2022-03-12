@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-height: max-content;
+  background-color: lavender;
+}
