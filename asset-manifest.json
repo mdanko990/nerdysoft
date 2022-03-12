@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nerdysoft/static/css/main.9804f07f.css",
+    "main.js": "/nerdysoft/static/js/main.6a248a70.js",
+    "index.html": "/nerdysoft/index.html",
+    "main.9804f07f.css.map": "/nerdysoft/static/css/main.9804f07f.css.map",
+    "main.6a248a70.js.map": "/nerdysoft/static/js/main.6a248a70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9804f07f.css",
+    "static/js/main.6a248a70.js"
+  ]
+}
